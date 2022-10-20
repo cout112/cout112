@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cout112
-- 👀 I’m interested in Blockchain development and data analysis. I use mainly python to code and JavaScript, SQL, HTML and CSS to visualize in a web environment.
-- 🌱 I’m currently learning . Data analysis using pandas, numpy and web development using Django
+- 👀 I’m interested in Blockchain development and data science. Python is my language of choice, although I use others such as SQL or JavaScript, HTML and CSS to do front-end web development.
+- 🌱 I’m currently learning artificial intelligence since I have been a data analyst for 2 years now and I want to get into data science.
 - 💞️ I’m looking to collaborate on any source project that involves finance analysis.
 - 📫 How to reach me by email on carlos.gabilondo@outlook.com
 
